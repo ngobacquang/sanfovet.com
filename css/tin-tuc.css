@@ -1,0 +1,112 @@
+﻿a,a:hover{
+	text-decoration: none;
+}
+.tintucnoibat{width:99%;overflow: hidden;margin-top:15px}
+.title-tin{background:#f75d75;border-radius:7px 7px 0px 0px;height:35px}
+.title-tin > a{font:bold 15px SFUEurostileCond;line-height:35px;margin-left: 53px;color: white}
+.noidungtin{overflow: hidden;border:1px solid #808080;background:#f9dde1;border-radius:0px 0px 7px 7px;padding-top:20px}
+.baosanphamindex{overflow: hidden;width: 100%;float: left;margin-bottom: 20px;}
+
+.khungAnh1{width: 83px;height: 60px;margin-left: 13px;margin-right: 11px;padding: 3px;border: 1px solid #cbcbcb;position: relative;float: left;background: #fff;}
+.khungAnhCrop{width: 83px;height: 60px;display: block;}
+.imgkhunganh{width: 83px; height: 60px;}
+.titlen{font: normal 12px/20px Arial;color: #333;display: block;max-height: 40px;text-decoration: none;}
+
+#thongketruycap{width:100%;overflow: hidden;margin-top:15px}
+.title-thongke{width:100%;height:35px;background:#f75d75;border-radius:7px 7px 0px 0px}
+.title-thongke > a{font:bold 15px SFUEurostileCond;line-height:35px;margin-left: 53px;color: white}
+.so-thongke{overflow: hidden;background:#f9dde1;border:1px solid #808080;border-radius:0px 0px 7px 7px}
+.so-thongke p{margin:0px;margin: 10px 0px 10px 15px;}
+
+#trangphai{width:710px;float:left;overflow: hidden;padding-left:5px;background:#f9dde1;margin-top: 5px}
+#NewsIndex{width:710px;overflow: hidden}
+.baonewinde{margin-top:5px}
+.titlehead{display: block;
+    width: 100%;
+    height: 40px;
+    background: url(../pic/tin-tuc/bgtitle.png) no-repeat left center;
+    margin-bottom: 5px;
+    padding-left: 25px;}
+.ten{color: #1958ca;
+    font: bold 16px/40px Arial;
+    text-transform: uppercase;}
+.list{font-size: 12px;
+    font-family: Arial;
+    margin-right: 15px;
+    margin-left: 10px;
+}
+.box1{overflow: hidden;margin-bottom: 20px;}
+#NewsIndex .khungAnh{float: left;
+    width: 210px;
+    height: 130px;
+    border-radius: 4px;
+    overflow: hidden;
+    margin-right: 20px;
+    position: relative;}
+#NewsIndex .khungAnhCrop{width: 210px;
+    height: 130px;
+    display: block;}
+.imgmuctin{position: absolute;
+    z-index: 1;
+    top: 0px;
+    left: -10px;
+    height: 130px;
+    width: 230px;}
+.title{font: bold 14px/22px 'Arial';
+    color: #333;
+    max-height: 45px;
+    overflow: hidden;
+    display: block;}
+.title:hover{color:#ff006e}
+.view{color: #888;
+    padding-bottom: 2px;
+    font: 12px/18px 'Arial';
+    padding-left: 25px;
+    padding-right: 20px;
+    background: url(../pic/tin-tuc/veiw.png) no-repeat left center;}
+.date{color: #888;
+    padding-bottom: 2px;
+    font: 12px/18px 'Arial';
+    padding-left: 20px;
+    background: url(../pic/tin-tuc/date.png) no-repeat left center;}
+.desc{text-align: justify;
+    font: normal 12px/22px Arial;
+    color: #333;
+    max-height: 40px;
+    overflow: hidden;
+    margin-bottom: 5px;}
+.detail{color: #666;
+    background: url(../pic/tin-tuc/viewmore.png) no-repeat right;
+    padding-right: 15px;
+    font: normal 12px/14px Arial;
+    float: right;}
+.detail:hover{color:#1958ca;background: url(../pic/tin-tuc/viewmorehv.png) no-repeat right;}
+.title1{color: #333;
+    display: block;
+    margin-bottom: 10px;
+    padding-left: 15px;
+    background: url(../pic/tin-tuc/dottin.png) no-repeat left;
+    font: normal 12px Arial;}
+.title1:hover{color:#ff006e}
+
+/*
+.tintuc{overflow: hidden}
+.item{height: 134px;position: relative;margin-bottom: 10px;padding-top:10px;padding-bottom: 20px;border-bottom: 1px dotted #888;}
+.item .khungAnh{width: 210px;height: 130px;margin-left: 5px;margin-right: 20px;float: left;border-radius: 4px;overflow: hidden;position: relative;}
+.item .khungAnhCrop{display: block;width: 210px;height: 130px;}
+
+.imganh{height: 130px; width: 230px}
+.title{font: bold 15px/18px 'Arial';color: #333;display: block;padding-bottom: 8px;text-decoration: none
+}
+.view{color: #888;padding-bottom: 2px;font: 12px/18px 'Arial';padding-left: 25px;padding-right: 20px;background: url(../pic/tin-tuc/veiw.png) no-repeat left center;}
+.date{color: #888;padding-bottom: 2px;font: 12px/18px 'Arial';padding-left: 20px;background: url(../pic/tin-tuc/date.png) no-repeat left center;}
+.item .desc{line-height: 18px;text-align: justify;height: 55px;display: block;font: 12px/18px 'Arial';margin-top: 5px;margin-right: 14px;
+}
+.detail{color: #fff;font: 12px/30px 'Arial';background: #a6a6a6;float: right;border-radius: 30px;padding: 0 10px;margin-right: 14px;}
+*/
+
+/*chân trang*/
+#footer{height:170px;background:url(images/bgfooter.jpg) no-repeat center center;margin-top:50px}
+#footer .contener{}
+.menufoter  {width: 206px;margin: auto;padding-top: 120px;}  
+

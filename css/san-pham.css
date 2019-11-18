@@ -1,0 +1,113 @@
+﻿body {margin:0;padding:0;background:url(images/nenbody.gif) repeat
+}
+.contener{width:1000px;margin:auto;height:100%}
+
+#dongke{height:3px;background:url(images/lineheader.png) repeat}
+
+/*khu vực đầu trang*/
+#dautrang {background:url(images/bgheader.jpg) repeat;height:120px}
+#logo{height:110px;padding-top:5px;padding-bottom:5px}
+#logochu{width:235px;height:100px;float:left;padding-top:5px;padding-bottom:5px}
+#anh1{width:225px;height:90px;background:url(images/emdep.png) no-repeat center center;padding-top:5px;padding-bottom:5px}
+#logoanh{width:735px;float:left;height:100px;padding-top:5px;padding-bottom:5px;padding-left: 30px}
+#anh2{width:725px;height:90px;background:url(images/emdep1.png) no-repeat;padding-top:5px;padding-bottom:5px}
+
+/*memu đầu trang*/
+#menudautrang{height:40px;background:url(images/menungang_nen.png) repeat;padding:1px}
+#menudautrang .contener{padding:1px}
+#menutrai{float:left;height:40px; width:800px}
+.menungang{height:100%;margin:0px auto;padding: 0px}
+.menu1{float:left; list-style:none;padding:10px 18px 0px 0px}
+.menungang li a{text-decoration: none;border-right:1px solid #ccc;color:white;font:bold 15px SFUEurostileCond;padding: 9px 20px 10px 0px}
+#menutrai a:hover{color:black}
+#dangnhap{float:right;height:40px; width:200px}
+#dangnhap ul{margin:0px;padding:10px 0px}
+#dangnhap ul li{list-style:none;float:right;margin:0}
+#dangnhap ul li a{text-decoration:none; color:black;font:bold 15px SFUEurostileCond}
+.dangnhap1 a{margin: 0px 0px 0px 10px;}
+.dangnhap2 a{margin: 0px 10px;}
+
+/*Link đường dẫn tới thư mục*/
+.inner{width:100%;height:35px}
+.inner a{float:left; text-decoration:none;line-height: 35px;font: normal 15px SFUEurostileCond;color:#ff006e;line-height:35px}
+.icon{width: 6px;height: 10px;float:left ;background:url(images/road.png)no-repeat center center;margin:13px 5px 12px 5px}
+
+/*thanh tìm kiếm + giỏ hàng*/
+#timkiem{height:50px;margin-top: 7px;}
+#timkiem .contener{}
+.timkiemtrai{float:left; height:50px;width:50px}
+.timkiemanh{background:url(images/logo3.png) no-repeat center center;width:50px;height:50px}
+.timkiemphai{float:left; height:50px;width:950px}
+.otimkiem{float:right;width:530px;height:100%}
+.search{height:29px;width:450px;border: solid 2px #d6252b;float: right;margin-top: 9px;margin-right: 15px;}
+#keysearch{border: none;width:420px;height:27px}
+.submit{width: 30px;height: 30px;border: none;float: right;background:url(images/search_icon.png) no-repeat center #d6252b;text-indent: -999px;}
+.hotline{float:right;width:360px;height:100%;background:url(images/hotline.png)no-repeat center}
+.label{float: left;text-indent:20px;color: #ec2917;line-height: 50px;font-size: 15px;}
+.number{float: right; width: 252px;text-align: center;color: #FFF;font-weight: 700;line-height: 50px}
+.giohang{float:right;width:43px;height:100%}
+#cart{width:100%;height:100%;background:url(images/header-cart.png) no-repeat center center;padding-left:10px}
+
+
+/*thân trang*/
+#thantrang{margin-top:10px;overflow: hidden}
+#thantrang .contener{}
+
+#trangtrai{width:280px;float:left;height:100%;margin-right:5px;overflow: hidden;margin-top: 3px;}
+
+#danhmuc{width:100%;overflow: hidden}
+.daumuc{background:#f75d75;border-radius:7px 7px 0px 0px;height:35px}
+.daumuc > a{font:bold 15px SFUEurostileCond;line-height:35px;margin-left: 53px;color: white}
+.ditmuc{background:#f9dde1;border:1px solid #808080;border-radius:0px 0px 7px 7px}
+#danhmuc ul{list-style: none;padding:0px;margin:0px}
+#danhmuc ul li{height:35px;border-bottom:1px solid #808080;}
+#danhmuc ul li:hover {background:#f8dde1}
+#danhmuc ul li a{font:bold 15px SFUEurostileCond;line-height:35px;margin-left:126px;text-decoration: none;color:#f75d75}
+#danhmuc ul li a:hover{color:black}
+
+#hotro{width:99%;overflow: hidden;margin-top:15px;border:1px solid #808080;background:#f9dde1;border-radius:7px}
+#pichotro{width:100%;overflow: hidden}
+.logohotro{width:100%;background:#f75d75}
+.logohotro img{margin: 5px 0px 0px 60px}
+#pichotro>h3{color:#d6252b;font:bold 18px SFUEurostileCond;text-align: center;border-bottom: 1px solid #ea819e;margin:0px; padding:10px 0px 10px 0px}
+.support{margin: 0px 10px 0px 10px;}
+.text-center{  border-bottom: 1px solid #f75d75;width: 100%;margin: 15px 0pc 0px 0px;}
+.text-center p{margin:0px;margin-bottom: 15px}
+.supp-name{color: #f75d75;font: bold 17px SFUEurostileCond;margin-bottom:5px}
+.support a{   }
+
+#thanhtoan{width:100%;overflow: hidden;margin-top:15px}
+.title-thanhtoan {width:100%;height:35px;background:#f75d75;border-radius:7px 7px 0px 0px}
+.title-thanhtoan > a{font:bold 15px SFUEurostileCond;line-height:35px;margin-left: 53px;color: white}
+.thongtinnganhang{overflow: hidden;background:#f9dde1;border:1px solid #808080;border-radius:0px 0px 7px 7px}
+.nganhang{ margin-top:25px;border-bottom:1px solid #f75d75}
+.nganhang img{margin:0px 0px 3px 15px}
+.nganhang p {margin:2px 0px 30px 15px}
+
+#thongketruycap{width:100%;overflow: hidden;margin-top:15px}
+.title-thongke{width:100%;height:35px;background:#f75d75;border-radius:7px 7px 0px 0px}
+.title-thongke > a{font:bold 15px SFUEurostileCond;line-height:35px;margin-left: 53px;color: white}
+.so-thongke{overflow: hidden;background:#f9dde1;border:1px solid #808080;border-radius:0px 0px 7px 7px}
+.so-thongke p{margin:0px;margin: 10px 0px 10px 15px;}
+
+#trangphai{width:710px;float:left;height:100%;padding-left:5px}
+.sanpham{}
+#sanphamnoibat{overflow: hidden}
+.title-line{text-align: center;position: relative;display: block;margin-top:28px}
+.title-line > a{text-decoration:none}
+.title-line .ten{font:bold 18px SFUEurostileCond;display: inline-block;background: url(images/nenbody.gif);padding: 0px 17px;position: relative;color:#ff006e;z-index: 1}
+.title-line .xemchitiet{font: normal 12px/40px 'Arial';color:#ff006e;float: right;margin-top: 1px;}
+.title-line::before{display: table;content: ""; border-top: 1px solid #ea819e;width: 100%;position: absolute;top: 8px;border-bottom: 1px solid #ea819e;padding-top: 1px;}
+.sp_noibat{margin-top:25px;overflow: hidden;background:white}
+.item {float:left;text-align:center; border:1px solid #f75d75;margin-right:7px} 
+.item:last-child{margin-right:0px}
+.item img {width:230px;height:225px}
+.title-sp{display:block;font:bold 18px SFUEurostileCond; color:#f75d75;padding:8px 0px 8px 0px;text-decoration:none}
+.desc{font:normal 15px SFUEurostileCond;color:#f75d75;padding-bottom:5px }
+#sanphammoive{overflow: hidden}
+#sanphambanchay{overflow: hidden}
+
+/*chân trang*/
+#footer{height:170px;background:url(images/bgfooter.jpg) no-repeat center center;margin-top:50px}
+#footer .contener{}
+.menufoter  {width: 206px;margin: auto;padding-top: 120px;}  

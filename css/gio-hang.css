@@ -1,0 +1,297 @@
+﻿/*#trangphai{width:709px;float:left;height:1304px;margin-left:4px;border:1px solid #f75d75;border-radius:5px;}*/
+#trangphai{background: #fff;
+    border-radius: 4px;
+    padding: 0px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.1);
+    padding-bottom: 18px;}
+.modal-content{}
+.modal-header {
+    padding: 20px 0px;
+    text-align: center;
+    position: relative;
+    background-image: url("../pic/dangnhap/2.png");
+}
+.modal-header {
+    border-bottom: none;
+}
+.modal-header {
+    min-height: 16.43px;
+    padding: 15px;
+    border-bottom: 1px solid #e5e5e5;
+}
+.modal-title {
+    color: #fff;
+    text-transform: uppercase;
+}
+.modal-title {
+    margin: 0;
+    line-height: 1.42857143;
+}
+.modal-header .close {
+    margin-top: -2px;
+}
+button.close {
+    -webkit-appearance: none;
+    padding: 0;
+    cursor: pointer;
+    background: 0 0;
+    border: 0;
+}
+.close:hover, .close:focus, .close {
+    opacity: 1;
+}
+.close {
+    float: right;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 1;
+    color: #000;
+    text-shadow: 0 1px 0 #fff;
+    filter: alpha(opacity=20);
+    opacity: .2;
+}
+input, button, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+.modal-header a {
+    position: absolute;
+    top: 17px;
+    padding: 7px 6px;
+    right: 7px;
+    line-height: 0px;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.modal-body {
+    position: relative;
+    padding: 10px;
+}
+button.close a:before {
+    content: url('../pic/dangnhap/icon-delete.png');
+}
+.original {
+    display: none;
+}
+#cart-table th {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+table tr td:first-child, table tr th:first-child {
+    padding-left: 0px;
+}
+.modal-body th {
+    font-size: 15px;
+    color: #1C1C1C;
+    font-weight: 600;
+    text-align: left;
+}
+table tr td, table tr th {
+    padding: 0px;
+}
+table tr td, table tr th {
+    padding: 10px;
+    text-align: left;
+}
+table tr td {
+    border-top: 1px solid #dddddd;
+}
+.item-price {
+    font-size: 16px;
+}
+item-delete {
+    position: relative;
+    width: 40px;
+}
+.item-image, .item-quantity1, .item-delete {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+td.item-image {
+    width: 170px;
+    text-align: center;
+}
+#cartform table .item-title {
+    max-width: 200px !important;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+#cartform table .item-quantity {
+	max-width: 50px;
+}
+#cartform table .item-quantity input {
+	width: 100%;
+}
+.item-title {
+    width: 40%;
+    /* color: #3399cc; */
+    font-size: 14px;
+}
+.item-title a{text-decoration: none;
+    outline: none;
+    color: #b33551;}
+td.item-title span {
+    color: #000;
+}
+item input {
+    width: 64px;
+    text-align: center;
+    height: 30px;
+    border-radius: 3px;
+    font-size: 14px;
+    color: #808080;
+    border: 1px solid #ccc;
+    outline: none;
+    padding-left: 15px;
+}
+.item-price {
+    font-size: 16px;
+}
+.item-delete a {
+    color: #000;
+    top: 0;
+    margin: auto;
+    height: 19px;
+    right: 0px;
+    left: 0;
+    bottom: 0;
+    display: block;
+   /* -webkit-border-bottom-right-radius: 3px;
+    -webkit-border-bottom-left-radius: 3px;
+    -moz-border-radius-bottomright: 3px;
+    -moz-border-radius-bottomleft: 3px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;*/
+}
+#myCart .modal-footer {
+    border-top: 1px solid #DDD;
+}
+
+
+.col-lg-3 {
+    width: 25%;
+    float:left
+}
+.modal-title-note {
+    text-align: left;
+    font-size: 16px;
+    padding-left: 50px;
+}
+.col-lg-4 {
+    width: 266px;
+    margin-left: 20px;
+    float: left;
+}
+.modal-note textarea {
+    border: 1px #D8D8D8 solid;
+    padding-left: 10px;
+    padding-top: 5px;
+    width: 266px;
+}
+
+textarea {
+    resize: none;
+}
+.col-lg-5 {
+    width: 147px;
+    margin-left: 59px;
+    float: left;
+}
+.total-price-modal {
+    text-align: right;
+    margin-top: 20px;
+    color: #808080;
+}
+.total-price-modal span {
+    font-size: 20px;
+    color: #303030;
+    vertical-align: middle;
+}
+.col-lg-6 {
+    width: 50%;
+    float:left
+}
+.comeback {
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.comeback img {
+    margin-right: 5px;
+    float: left;
+}
+.comeback a {
+    color: #2799C9;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration:none;
+    line-height: 26px;
+}
+.text-right{margin-top:15px}
+#checkout {
+    float: right;
+    margin-left: 15px;
+}
+.button-default {
+    background: #2799c9;
+    border: none;
+    padding: 0 20px;
+    color: #fff;
+    font-size: 16px;
+    border-radius: 3px;
+    float: right;
+    height: 45px;
+    line-height: 45px;
+    position: relative;
+    cursor: pointer;
+    margin: 7px;
+}
+input, button, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+.button-default:before {
+    content: "";
+    width: 1px;
+    height: 100%;
+    border-left: solid #46B2DF 1px;
+    border-right: solid #3085A9 1px;
+    position: absolute;
+    right: 45px;
+}
+.button-default:after {
+    content: "";
+    background: url(../pic/dangnhap/icon-arr.png) no-repeat center right;
+    width: 30px;
+    height: 100%;
+    float: right;
+    margin-left: 10px;
+}
+.anhSPGioHang {
+	max-width: 90px;
+}
+.dienThongTinDatHang input {
+	width: 100%;
+}
+.dienThongTinDatHang .row {	
+	margin-bottom: 10px;
+	overflow: hidden;
+}
+.dienThongTinDatHang .row .col-lg-4 {
+	width: 75%;
+	margin-left: 0;
+}
+.dienThongTinDatHang .row .col-lg-4 .modal-note {
+	padding-right: 15px;
+}
+.dienThongTinDatHang .goiY {
+	margin-bottom: 30px;
+	padding: 15px;
+}
+ 

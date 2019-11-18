@@ -1,0 +1,64 @@
+﻿/*#trangphai{width:709px;float:left;height:1304px;margin-left:4px;border:1px solid #f75d75;border-radius:5px;}*/
+#trangphai{background: #fff;
+    border-radius: 4px;
+    padding: 0px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.1);
+    padding-bottom: 18px;}
+.title-gioithieu{width:100%;height: 50px}
+.title-gioithieu h1{
+    padding: 5px 15px 10px 15px;
+    border-bottom: 1px solid #ea819e;
+    text-transform: uppercase;
+    color: #ea819e;
+    font-size: 18px;
+    margin-bottom: 20px;}
+
+.userbox { 
+    width: 335px;
+    padding: 15px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.clearfix{overflow:hidden;width:345px;margin-bottom:10px}
+#first_name{}
+.label-fname{background-color: #F8F8F8 !important;border: solid 1px #E7E7E7;height:30px;width:30px;background:url(../pic/dangnhap/userico.png)no-repeat center center;float:left; }
+.text{border: solid 1px #E7E7E7;height:28px;width:290px;float:left;padding-left: 7px;}
+.label-lname{background-color: #F8F8F8 !important;border: solid 1px #E7E7E7;height:30px;width:30px;background:url(../pic/dangnhap/userico.png)no-repeat center center;float:left; }
+.label-email{background-color: #F8F8F8 !important;border: solid 1px #E7E7E7;height:30px;width:30px;background:url(../pic/dangnhap/email.png)no-repeat center center;float:left; }
+.label-pass{background-color: #F8F8F8 !important;border: solid 1px #E7E7E7;height:30px;width:30px;background:url(../pic/dangnhap/pass.png)no-repeat center center;float:left; }
+.action_bottom .btn{
+    font-size: 14px;
+    font-weight: 600;
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    width: 100%;
+    height: 35px;
+    background: #ea819e;
+    text-align: center;
+    border: none;
+	line-height: 36px;
+}
+.action_bottom .btn:hover {
+    background: #d96686;
+    color: #fff;
+}
+.req_pass {
+    margin-top: 10px;
+}
+.req_pass a {
+    text-decoration: none;
+    color: #ea819e !important;
+}
+.req_pass a:hover {
+    color: #ef8742 !important;
+}
+
+}
+/*chân trang*/
+#footer{height:170px;background:url(images/bgfooter.jpg) no-repeat center center;margin-top:50px}
+#footer .contener{}
+.menufoter  {width: 206px;margin: auto;padding-top: 120px;}  
+

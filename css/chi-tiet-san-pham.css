@@ -1,0 +1,151 @@
+﻿#thanhtoan{width:100%;overflow: hidden;margin-top:15px}
+.title-thanhtoan {width:100%;height:35px;background:#f75d75;border-radius:7px 7px 0px 0px}
+.title-thanhtoan > a{font:bold 15px SFUEurostileCond;line-height:35px;margin-left: 53px;color: white}
+.thongtinnganhang{overflow: hidden;background:#f9dde1;border:1px solid #808080;border-radius:0px 0px 7px 7px}
+.nganhang{ margin-top:25px;border-bottom:1px solid #f75d75}
+.nganhang img{margin:0px 0px 3px 15px}
+.nganhang p {margin:2px 0px 30px 15px}
+
+#thongketruycap{width:100%;overflow: hidden;margin-top:15px}
+.title-thongke{width:100%;height:35px;background:#f75d75;border-radius:7px 7px 0px 0px}
+.title-thongke > a{font:bold 15px SFUEurostileCond;line-height:35px;margin-left: 53px;color: white}
+.so-thongke{overflow: hidden;background:#f9dde1;border:1px solid #808080;border-radius:0px 0px 7px 7px}
+.so-thongke p{margin:0px;margin: 10px 0px 10px 15px;}
+
+#trangphai{width:710px;float:left;height:100%;padding-left:5px;margin-top:3px}
+.chitietsp{overflow: hidden;background:white;padding:5px}
+.baosp{width:350px;float:left;border:1px solid #808080}
+.imgsp{width:350px}
+.baochitiet{overflow: hidden;width:323px;float:left;padding-left:17px;font-family:arial;}
+.product-title h1{margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 3px;
+	margin-top: 2px;
+    text-transform: capitalize;}
+#pro_sku{font-size: 14px;
+    color: #303030;
+    padding-left: 2px;}
+.product-price{border-bottom: 1px solid #ccc;
+    padding-bottom: 12px;
+    margin-top: 10px;}
+.product-price span{font-size: 24px;
+    color: #ff6517;
+    margin-right: 25px;}
+.thongso{overflow: hidden;padding-top:10px}
+.size{font-size: 13px;
+    color:#303030;
+    font-weight: bold;
+    display: block;margin-top:10px}
+.size label{padding-right: 10px;}
+.select-site{width: 50px;
+    height: 25px}
+.soluong {font-size: 13px;
+    color:#303030;
+    font-weight: bold;
+    display: block;margin-top:15px}
+.soluong label{padding-right: 20px;}
+#quantity{width: 47px;
+    height: 20px}
+.mausac{font-size: 13px;
+    color:#303030;
+    font-weight: bold;
+    display: block;margin-top:15px}
+.mausac .select-site{width: 70px;
+    height: 25px}
+.mausac label{padding-right: 27px;}
+.chatlieu{font-size: 13px;
+    color:#303030;
+    font-weight: bold;
+    display: block;margin-top:15px}
+.chatlieu label{padding-right: 23px;}
+.chatlieu span{color:#ec2917}
+
+.row{overflow: hidden;padding-top:30px}
+.giohangsp{width:45%;float:left;padding-right: 31px;}
+.btn-color-add {
+    background: #e05543;
+    width: 100%;
+    margin: 10px 0px;
+}
+.btn-detail {
+    border: none;
+    padding-left: 50px;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 3px;
+    height: 44px;
+    line-height: 44px;
+    position: relative;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 12px;
+	display: inline-block;
+	text-align: center;
+	box-sizing: border-box;
+}
+.btn-detail:before {
+    content: "";
+    width: 1px;
+    height: 100%;
+    border-left: solid #ce4735 1px;
+    border-right: solid #ee7465 1px;
+    position: absolute;
+    left: 43px;
+    top: 0;
+}
+.btn-color-add:after {
+    background:url(../pic/anhsp/cart.png) no-repeat center center;
+}
+.btn-detail:after {
+    content: "";
+    width: 24px;
+    height: 100%;
+    float: left;
+    margin-left: 10px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.muangay{width:45%;float:left}
+.btn-color-buy {
+    background: #ff822e;
+    cursor: pointer;
+    width: 100%;
+    margin: 10px 0px;
+}
+.btn-color-buy:after {
+    background: url(../pic/anhsp/check.png) no-repeat center center;
+}
+
+.sanphamlienquan{overflow: hidden}
+#sanphamnoibat{overflow: hidden}
+.title-line{text-align: center;position: relative;display: block;margin-top:28px}
+.title-line > a{text-decoration:none}
+.title-line .ten{font:bold 18px SFUEurostileCond;display: inline-block;background: url(images/nenbody.gif);padding: 0px 17px;position: relative;color:#ff006e;z-index: 1}
+.title-line .xemchitiet{font: normal 12px/40px 'Arial';color:#ff006e;float: right;margin-top: 1px;}
+.title-line::before{display: table;content: ""; border-top: 1px solid #ea819e;width: 100%;position: absolute;top: 8px;border-bottom: 1px solid #ea819e;padding-top: 1px;}
+.sp_noibat{margin-top:25px;overflow: hidden;background:white}
+.item {float:left;text-align:center; border:1px solid #f75d75;margin-right:7px} 
+.item:last-child{margin-right:0px}
+.item img {width:230px;height:225px}
+.title-sp{display:block;font:bold 18px SFUEurostileCond; color:#f75d75;padding:8px 0px 8px 0px;text-decoration:none}
+.desc{font:normal 15px SFUEurostileCond;color:#f75d75;padding-bottom:5px }
+
+/*chân trang*/
+#footer{height:170px;background:url(images/bgfooter.jpg) no-repeat center center;margin-top:50px}
+#footer .contener{}
+.menufoter  {width: 206px;margin: auto;padding-top: 120px;}  
+.thongTinChiTietSanPham {
+	font-family: 'Times New Roman';
+	text-align: justify;
+	padding-top: 20px
+}
+.thongTinChiTietSanPham table {
+	max-width: 100%;
+}
+.thongTinChiTietSanPham img {
+	max-width: 100%;
+	height: auto;
+}
